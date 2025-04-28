@@ -2034,3 +2034,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 22:26:48.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> almrd
 [28Apr2025 22:26:49.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> XD
 [28Apr2025 22:32:56.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> pere papu
+[28Apr2025 22:39:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Those Were the Days]
+[28Apr2025 22:40:16.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [War Pigs]
+[28Apr2025 22:40:26.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:26.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:26.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.157] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:27.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:28.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:28.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:28.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:28.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:28.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:40:28.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Apr2025 22:41:27.571] [Worker-Main-91/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22321, l='ServerLevel[world]', x=-258.00, y=31.00, z=-469.00] as it would cause deadlock
+[28Apr2025 22:42:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was shot by Skeleton
+[28Apr2025 22:43:13.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was shot by Skeleton
