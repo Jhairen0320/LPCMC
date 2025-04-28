@@ -1988,3 +1988,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 21:45:43.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Timed out
 [28Apr2025 21:45:43.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
 [28Apr2025 21:45:43.177] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Apr2025 21:53:39.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DierkDavid[/127.170.5.104:46493] logged in with entity id 7165 at (-382.1434777695269, 64.9424277526289, -5927.783926574677)
+[28Apr2025 21:53:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid joined the game
+[28Apr2025 21:53:39.289] [Server thread/INFO] [Jade/]: Syncing config to DierkDavid (58235a4b-8fbd-31ac-a20c-a6373d194950)
+[28Apr2025 21:54:36.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Disconnected
+[28Apr2025 21:54:36.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
+[28Apr2025 21:55:45.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DierkDavid[/127.170.5.104:55039] logged in with entity id 7925 at (-382.1434777695269, 64.9424277526289, -5927.783926574677)
+[28Apr2025 21:55:45.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid joined the game
+[28Apr2025 21:55:45.579] [Server thread/INFO] [Jade/]: Syncing config to DierkDavid (58235a4b-8fbd-31ac-a20c-a6373d194950)
+[28Apr2025 21:56:43.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Timed out
+[28Apr2025 21:56:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
+[28Apr2025 21:56:43.585] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Apr2025 22:02:39.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DierkDavid[/127.170.5.104:54261] logged in with entity id 9605 at (-382.1434777695269, 64.9424277526289, -5927.783926574677)
+[28Apr2025 22:02:39.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid joined the game
+[28Apr2025 22:02:39.173] [Server thread/INFO] [Jade/]: Syncing config to DierkDavid (58235a4b-8fbd-31ac-a20c-a6373d194950)
+[28Apr2025 22:03:37.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Timed out
+[28Apr2025 22:03:37.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
+[28Apr2025 22:03:37.231] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
