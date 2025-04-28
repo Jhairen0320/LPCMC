@@ -2058,3 +2058,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 22:41:27.571] [Worker-Main-91/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22321, l='ServerLevel[world]', x=-258.00, y=31.00, z=-469.00] as it would cause deadlock
 [28Apr2025 22:42:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was shot by Skeleton
 [28Apr2025 22:43:13.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was shot by Skeleton
+[28Apr2025 22:57:31.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Hidden in the Depths]
+[28Apr2025 22:58:57.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from DierkDavid: Location (-529.4929669499397, 69.125, -5930.020445466042) too far away from hit block BlockPos{x=-530, y=70, z=-5931}.

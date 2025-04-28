@@ -19928,15 +19928,39 @@
     },
     "done": true
   },
+  "super_ore_block:recipes/building_blocks/super_diamond_block_from_diamond_block": {
+    "criteria": {
+      "has_diamond_block": "2025-04-28 23:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-04-28 22:36:41 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-04-28 23:00:25 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2025-04-28 23:00:25 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:better_than_netherite": {
     "criteria": {
       "armor": "2025-04-28 22:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-28 23:00:25 +0000"
     },
     "done": true
   },

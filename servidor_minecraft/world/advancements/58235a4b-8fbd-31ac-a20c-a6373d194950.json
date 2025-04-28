@@ -25215,6 +25215,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-28 22:57:31 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-28 22:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-28 22:57:31 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/basalt_slab": {
     "criteria": {
       "has_basalt": "2025-04-28 22:41:05 +0000"
@@ -25236,6 +25254,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-28 22:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-28 22:57:31 +0000"
     },
     "done": true
   },
