@@ -22779,18 +22779,6 @@
     },
     "done": true
   },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2025-04-29 20:59:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
-    "criteria": {
-      "has_item": "2025-04-29 20:59:42 +0000"
-    },
-    "done": true
-  },
   "new_slab_variants:recipes/building_blocks/basalt_slab": {
     "criteria": {
       "has_basalt": "2025-04-29 20:42:03 +0000"
@@ -22809,15 +22797,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-29 20:42:03 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-04-29 20:52:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
-      "has_basalt": "2025-04-29 20:42:03 +0000"
+      "has_item": "2025-04-29 20:59:42 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-04-29 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "create_kart:chassis": {
+    "criteria": {
+      "chassis_0": "2025-04-29 21:18:43 +0000"
     },
     "done": true
   },

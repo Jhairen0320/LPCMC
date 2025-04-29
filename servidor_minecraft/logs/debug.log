@@ -22649,3 +22649,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 21:12:16.816] [Server thread/DEBUG] [com.possible_triangle.create_jetpack.CreateJetpackMod/]: Sending server config to Cursed10
 [29Apr2025 21:12:16.818] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to Cursed10
 [29Apr2025 21:12:16.818] [Server thread/INFO] [Jade/]: Syncing config to Cursed10 (0b1980f4-a48c-32e0-8b36-2b6276ab5b56)
+[29Apr2025 21:15:10.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 21:15:10.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 21:18:43.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [A large pallet .... useless?]
+[29Apr2025 21:19:22.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Quien es luis
+[29Apr2025 21:19:36.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> que hace alla arriba XD
+[29Apr2025 21:20:10.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 21:20:10.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 21:21:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Es que toy haciendo un test
