@@ -1961,3 +1961,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 03:04:44.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Cursed10: resparar todo
 [29Apr2025 03:14:05.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Local Brewery]
 [29Apr2025 03:21:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> arroz tomate cebolla hongo cafe papa baya
+[29Apr2025 03:34:07.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Bob'/9062, l='ServerLevel[world]', x=-342.04, y=64.00, z=-5487.09] died: Bob was slain by Granville
+[29Apr2025 03:34:08.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Eli'/9052, l='ServerLevel[world]', x=-340.56, y=64.00, z=-5485.56] died: Eli was slain by Granville
+[29Apr2025 03:34:20.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mara'/9161, l='ServerLevel[world]', x=-342.05, y=64.00, z=-5481.32] died: Mara was slain by Iron Golem
+[29Apr2025 03:34:21.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Youlanda'/9074, l='ServerLevel[world]', x=-344.11, y=64.00, z=-5481.57] died: Youlanda was slain by Iron Golem
+[29Apr2025 03:34:22.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Shayna'/9089, l='ServerLevel[world]', x=-342.91, y=63.00, z=-5479.72] died: Shayna was slain by Iron Golem
+[29Apr2025 03:34:24.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mui'/9044, l='ServerLevel[world]', x=-342.57, y=63.00, z=-5479.19] died: Mui was slain by Iron Golem
+[29Apr2025 03:34:27.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Granville'/9188, l='ServerLevel[world]', x=-340.51, y=63.00, z=-5478.74] died: Granville was slain by Iron Golem
+[29Apr2025 03:34:28.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Harold'/9083, l='ServerLevel[world]', x=-341.16, y=63.00, z=-5477.45] died: Harold was slain by Iron Golem
+[29Apr2025 03:34:30.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Viva'/9063, l='ServerLevel[world]', x=-340.19, y=63.00, z=-5478.32] died: Viva was slain by Iron Golem

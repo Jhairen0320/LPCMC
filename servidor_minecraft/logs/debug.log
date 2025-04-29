@@ -20802,3 +20802,128 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 03:20:57.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Apr2025 03:20:57.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Apr2025 03:21:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> arroz tomate cebolla hongo cafe papa baya
+[29Apr2025 03:25:57.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 03:25:57.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 03:26:25.608] [Server thread/DEBUG] [mixin/]: Mixing FillingBySpoutMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.spout.FillingBySpout
+[29Apr2025 03:26:25.608] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:FillingBySpoutMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29Apr2025 03:30:17.865] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-567, y=62, z=-5986}
+[29Apr2025 03:30:17.865] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-573, y=62, z=-5986}
+[29Apr2025 03:30:17.865] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-579, y=62, z=-5986}
+[29Apr2025 03:30:17.865] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-591, y=62, z=-5986}
+[29Apr2025 03:30:17.865] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-585, y=62, z=-5986}
+[29Apr2025 03:30:21.063] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-558, y=64, z=-5978}
+[29Apr2025 03:30:21.063] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-579, y=62, z=-5974}
+[29Apr2025 03:30:21.063] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-573, y=62, z=-5978}
+[29Apr2025 03:30:21.063] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-567, y=62, z=-5982}
+[29Apr2025 03:30:21.063] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-579, y=62, z=-5970}
+[29Apr2025 03:30:21.063] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-573, y=62, z=-5974}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-551, y=71, z=-5969}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-579, y=62, z=-5982}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-591, y=62, z=-5970}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-585, y=62, z=-5974}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-579, y=62, z=-5978}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-573, y=62, z=-5982}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-585, y=62, z=-5970}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-560, y=62, z=-5978}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-556, y=66, z=-5978}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-567, y=62, z=-5970}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-567, y=62, z=-5978}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-570, y=62, z=-5974}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-573, y=62, z=-5970}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-567, y=62, z=-5974}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-564, y=60, z=-5979}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-570, y=62, z=-5970}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-591, y=62, z=-5978}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-585, y=62, z=-5982}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-591, y=62, z=-5974}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-585, y=62, z=-5978}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-591, y=62, z=-5982}
+[29Apr2025 03:30:21.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-562, y=59, z=-5980}
+[29Apr2025 03:30:35.567] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 9
+[29Apr2025 03:30:35.570] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45509d, b=27, e=53}, noobanidus.mods.lootr.data.SpecialChestInventory@36042996=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@36042996, c=net.minecraft.world.inventory.ChestMenu@45509d, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45509d, b=54, e=62}}
+[29Apr2025 03:30:35.570] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@36042996, c=net.minecraft.world.inventory.ChestMenu@45509d, b=0, e=26}
+[29Apr2025 03:30:57.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 03:30:57.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 03:31:09.225] [Server thread/DEBUG] [ModernFix/]: Structure minecraft:village/common/iron_golem is being run through DFU (hash 5b4d80daa326c47ebd1df5a09dc1f7fb21c2989b2d0d1f439812833389d193ea), this will cause launch time delays
+[29Apr2025 03:31:54.924] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5925}
+[29Apr2025 03:31:54.924] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5922}
+[29Apr2025 03:31:59.963] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5913}
+[29Apr2025 03:31:59.963] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5919}
+[29Apr2025 03:31:59.963] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5916}
+[29Apr2025 03:31:59.963] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5910}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5889}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5901}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5895}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-495, y=66, z=-5892}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-494, y=66, z=-5892}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-496, y=64, z=-5889}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5904}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5892}
+[29Apr2025 03:32:03.460] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-482, y=65, z=-5898}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-496, y=65, z=-5877}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-493, y=65, z=-5877}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=63, z=-5886}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=66, z=-5888}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-491, y=64, z=-5885}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=62, z=-5884}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=66, z=-5884}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=66, z=-5888}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-496, y=64, z=-5883}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=66, z=-5884}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=65, z=-5888}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-488, y=65, z=-5886}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-493, y=65, z=-5880}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-485, y=65, z=-5886}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=63, z=-5887}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=65, z=-5888}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=63, z=-5885}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=65, z=-5884}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-496, y=65, z=-5880}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=65, z=-5884}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=64, z=-5888}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=64, z=-5884}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-497, y=64, z=-5884}
+[29Apr2025 03:32:06.719] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=64, z=-5888}
+[29Apr2025 03:32:06.720] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-492, y=61, z=-5883}
+[29Apr2025 03:32:06.724] [Worker-Main-36/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[29Apr2025 03:32:07.118] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Apr2025 03:32:07.118] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Apr2025 03:32:07.118] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Apr2025 03:32:07.118] [Worker-Main-42/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Apr2025 03:32:07.119] [Worker-Main-42/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29Apr2025 03:32:07.120] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.121] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[29Apr2025 03:32:07.751] [Worker-Main-42/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29Apr2025 03:32:07.752] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29Apr2025 03:32:07.752] [Worker-Main-42/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29Apr2025 03:33:48.515] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 3
+[29Apr2025 03:33:48.516] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=54, e=62}, noobanidus.mods.lootr.data.SpecialChestInventory@36d58aa8=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@36d58aa8, c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=0, e=26}}
+[29Apr2025 03:33:48.516] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@36d58aa8, c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=0, e=26}
+[29Apr2025 03:33:53.953] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 39
+[29Apr2025 03:33:53.953] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=54, e=62}, noobanidus.mods.lootr.data.SpecialChestInventory@36d58aa8=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@36d58aa8, c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=0, e=26}}
+[29Apr2025 03:33:53.954] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@10248bb2, b=27, e=53}
+[29Apr2025 03:33:59.218] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 13
+[29Apr2025 03:33:59.219] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6caf5333, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6caf5333, b=54, e=62}, noobanidus.mods.lootr.data.SpecialChestInventory@30f99947=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@30f99947, c=net.minecraft.world.inventory.ChestMenu@6caf5333, b=0, e=26}}
+[29Apr2025 03:33:59.219] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@30f99947, c=net.minecraft.world.inventory.ChestMenu@6caf5333, b=0, e=26}
+[29Apr2025 03:34:07.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Bob'/9062, l='ServerLevel[world]', x=-342.04, y=64.00, z=-5487.09] died: Bob was slain by Granville
+[29Apr2025 03:34:08.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Eli'/9052, l='ServerLevel[world]', x=-340.56, y=64.00, z=-5485.56] died: Eli was slain by Granville
+[29Apr2025 03:34:20.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mara'/9161, l='ServerLevel[world]', x=-342.05, y=64.00, z=-5481.32] died: Mara was slain by Iron Golem
+[29Apr2025 03:34:21.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Youlanda'/9074, l='ServerLevel[world]', x=-344.11, y=64.00, z=-5481.57] died: Youlanda was slain by Iron Golem
+[29Apr2025 03:34:22.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Shayna'/9089, l='ServerLevel[world]', x=-342.91, y=63.00, z=-5479.72] died: Shayna was slain by Iron Golem
+[29Apr2025 03:34:24.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mui'/9044, l='ServerLevel[world]', x=-342.57, y=63.00, z=-5479.19] died: Mui was slain by Iron Golem
+[29Apr2025 03:34:27.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Granville'/9188, l='ServerLevel[world]', x=-340.51, y=63.00, z=-5478.74] died: Granville was slain by Iron Golem
+[29Apr2025 03:34:28.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Harold'/9083, l='ServerLevel[world]', x=-341.16, y=63.00, z=-5477.45] died: Harold was slain by Iron Golem
+[29Apr2025 03:34:30.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Viva'/9063, l='ServerLevel[world]', x=-340.19, y=63.00, z=-5478.32] died: Viva was slain by Iron Golem
+[29Apr2025 03:34:58.315] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 5
+[29Apr2025 03:34:58.315] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@60598df2, b=27, e=53}, noobanidus.mods.lootr.data.SpecialChestInventory@4e5b886=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@4e5b886, c=net.minecraft.world.inventory.ChestMenu@60598df2, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@60598df2, b=54, e=62}}
+[29Apr2025 03:34:58.315] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@4e5b886, c=net.minecraft.world.inventory.ChestMenu@60598df2, b=0, e=26}
