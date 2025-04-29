@@ -2076,3 +2076,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 22:29:53.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cursed10 lost connection: Disconnected
 [29Apr2025 22:29:53.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 left the game
 [29Apr2025 22:39:27.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Don't forget to recycle]
+[29Apr2025 23:15:19.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.252.103.120:39993] logged in with entity id 48015 at (-534.5385838332364, 69.0, -5948.2468325666405)
+[29Apr2025 23:15:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
+[29Apr2025 23:15:19.442] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
+[29Apr2025 23:16:19.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> hola papug
+[29Apr2025 23:16:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> hola papu g n p
