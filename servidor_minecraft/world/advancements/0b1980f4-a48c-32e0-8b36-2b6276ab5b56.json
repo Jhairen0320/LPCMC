@@ -23589,5 +23589,11 @@
     },
     "done": true
   },
+  "create_kart:chassiechapement": {
+    "criteria": {
+      "chassiechapement_0": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
