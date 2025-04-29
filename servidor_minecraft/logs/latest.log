@@ -2006,3 +2006,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 20:29:59.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
 [29Apr2025 20:29:59.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
 [29Apr2025 20:29:59.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
+[29Apr2025 20:37:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> q haya hoy papu
+[29Apr2025 20:38:17.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[29Apr2025 20:38:20.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM moved too quickly! 9.336421678471886,0.796735600668697,3.5808432674705273
+[29Apr2025 20:38:42.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM tried to swim in lava
+[29Apr2025 20:39:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM tried to swim in lava
+[29Apr2025 20:39:42.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cursed10 lost connection: Disconnected
+[29Apr2025 20:39:42.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 left the game
+[29Apr2025 20:40:09.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cursed10[/127.133.65.64:49135] logged in with entity id 6278 at (-22.436547358291126, 25.2625178116517, -762.8325829099554)
+[29Apr2025 20:40:09.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 joined the game
+[29Apr2025 20:40:09.485] [Server thread/INFO] [Jade/]: Syncing config to Cursed10 (0b1980f4-a48c-32e0-8b36-2b6276ab5b56)
+[29Apr2025 20:40:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 tried to swim in lava
+[29Apr2025 20:41:26.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Drew'/6668, l='ServerLevel[world]', x=-536.50, y=-65.00, z=-5967.50] died, message: 'Drew was killed'
+[29Apr2025 20:41:26.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Drew'/6668, l='ServerLevel[world]', x=-536.50, y=-65.00, z=-5967.50] died: Drew was killed
+[29Apr2025 20:42:38.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> polea de manguera drenador
