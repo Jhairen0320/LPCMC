@@ -22715,3 +22715,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 22:14:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> :C
 [29Apr2025 22:15:10.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Apr2025 22:15:10.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 22:20:10.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 22:20:10.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 22:24:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> ya regreso causa
+[29Apr2025 22:24:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> ta bn papu g n p
+[29Apr2025 22:24:51.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
+[29Apr2025 22:24:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
+[29Apr2025 22:25:10.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 22:25:10.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2069,3 +2069,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 22:14:22.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> cual perdon
 [29Apr2025 22:14:22.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> El agua empujo el barco y los metio a la roca creo
 [29Apr2025 22:14:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> :C
+[29Apr2025 22:24:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> ya regreso causa
+[29Apr2025 22:24:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> ta bn papu g n p
+[29Apr2025 22:24:51.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
+[29Apr2025 22:24:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game

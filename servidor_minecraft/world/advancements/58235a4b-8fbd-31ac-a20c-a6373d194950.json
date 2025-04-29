@@ -25293,5 +25293,11 @@
     },
     "done": true
   },
+  "mekanism:alarm": {
+    "criteria": {
+      "industrial_alarm": "2025-04-29 22:17:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
