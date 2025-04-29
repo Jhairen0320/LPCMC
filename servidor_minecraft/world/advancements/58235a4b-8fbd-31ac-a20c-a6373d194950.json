@@ -25287,6 +25287,12 @@
     },
     "done": true
   },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2025-04-29 23:48:54 +0000"
+    },
+    "done": true
+  },
   "trading_floor:happy_jeff": {
     "criteria": {
       "0": "2025-04-29 21:06:26 +0000"
