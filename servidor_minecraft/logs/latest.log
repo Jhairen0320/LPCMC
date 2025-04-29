@@ -2073,3 +2073,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 22:24:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> ta bn papu g n p
 [29Apr2025 22:24:51.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
 [29Apr2025 22:24:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
+[29Apr2025 22:29:53.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cursed10 lost connection: Disconnected
+[29Apr2025 22:29:53.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 left the game
