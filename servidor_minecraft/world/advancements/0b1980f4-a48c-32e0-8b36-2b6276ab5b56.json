@@ -22821,9 +22821,39 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-29 21:23:12 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-04-29 21:23:12 +0000"
+    },
+    "done": true
+  },
   "create_kart:chassis": {
     "criteria": {
       "chassis_0": "2025-04-29 21:18:43 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-29 21:23:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_the_recipe": "2025-04-29 21:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-04-29 21:24:57 +0000"
     },
     "done": true
   },
