@@ -22827,9 +22827,87 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -22863,6 +22941,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "create_kart:parchoquescs": {
     "criteria": {
       "parchoquescs_0": "2025-04-29 21:43:49 +0000"
@@ -22875,9 +22959,27 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -22887,15 +22989,63 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
     "criteria": {
       "has_red_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -22911,6 +23061,24 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-29 21:45:04 +0000"
@@ -22923,9 +23091,27 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_table": {
     "criteria": {
       "has_the_recipe": "2025-04-29 21:23:47 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -22941,9 +23127,69 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -22959,9 +23205,39 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create_kart:echapementscs": {
+    "criteria": {
+      "echapementscs_0": "2025-04-29 21:47:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -22971,15 +23247,51 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-29 21:51:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -22995,6 +23307,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-29 21:45:04 +0000"
@@ -23007,9 +23337,33 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -23019,15 +23373,57 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_sofa": {
     "criteria": {
       "has_wool": "2025-04-29 21:45:06 +0000"
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-04-29 21:45:06 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -23043,9 +23439,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -23055,9 +23469,51 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-29 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },
@@ -23067,9 +23523,51 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create_kart:siegescs": {
+    "criteria": {
+      "siegescs_0": "2025-04-29 21:45:53 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/red_wool_slab": {
     "criteria": {
       "has_red_wool": "2025-04-29 21:45:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair": {
+    "criteria": {
+      "has_seat": "2025-04-29 21:45:26 +0000"
     },
     "done": true
   },

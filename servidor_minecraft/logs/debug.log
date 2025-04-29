@@ -22673,3 +22673,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 21:43:49.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Bumper, no disaster!]
 [29Apr2025 21:45:10.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Apr2025 21:45:10.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 21:45:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [You're gonna be LEGENDARY... or, you know, decent.]
+[29Apr2025 21:47:57.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [A big whistle!]
+[29Apr2025 21:50:10.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 21:50:10.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 21:55:10.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 21:55:10.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
