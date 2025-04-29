@@ -19970,9 +19970,21 @@
     },
     "done": true
   },
+  "create_kart:chassis": {
+    "criteria": {
+      "chassis_0": "2025-04-29 22:09:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
+    },
+    "done": true
+  },
+  "create_kart:parchoquescs": {
+    "criteria": {
+      "parchoquescs_0": "2025-04-29 22:09:20 +0000"
     },
     "done": true
   },
@@ -19994,6 +20006,12 @@
     },
     "done": true
   },
+  "create_kart:moteurscs": {
+    "criteria": {
+      "moteurscs_0": "2025-04-29 22:09:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/controls": {
     "criteria": {
       "has_item": "2025-04-29 21:58:03 +0000"
@@ -20006,6 +20024,12 @@
     },
     "done": true
   },
+  "create_kart:echapementscs": {
+    "criteria": {
+      "echapementscs_0": "2025-04-29 22:09:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
@@ -20015,6 +20039,12 @@
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
+    },
+    "done": true
+  },
+  "create_kart:chassisparchqoue": {
+    "criteria": {
+      "chassisparchqoue_0": "2025-04-29 22:12:21 +0000"
     },
     "done": true
   },
@@ -20048,6 +20078,12 @@
     },
     "done": true
   },
+  "create_kart:chassissiege": {
+    "criteria": {
+      "chassissiege_0": "2025-04-29 22:12:29 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/magma_block_slab": {
     "criteria": {
       "has_magma_block": "2025-04-29 20:46:35 +0000"
@@ -20057,6 +20093,12 @@
   "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
+    },
+    "done": true
+  },
+  "create_kart:chassiroue": {
+    "criteria": {
+      "chassiroue_0": "2025-04-29 22:11:57 +0000"
     },
     "done": true
   },
@@ -20135,6 +20177,12 @@
   "create:drain": {
     "criteria": {
       "0": "2025-04-29 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "create_kart:siegescs": {
+    "criteria": {
+      "siegescs_0": "2025-04-29 22:09:48 +0000"
     },
     "done": true
   },

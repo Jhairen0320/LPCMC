@@ -25275,9 +25275,21 @@
     },
     "done": true
   },
+  "refinedstorage:exporting": {
+    "criteria": {
+      "exporter_in_inventory": "2025-04-29 22:08:24 +0000"
+    },
+    "done": true
+  },
   "trading_floor:happy_jeff": {
     "criteria": {
       "0": "2025-04-29 21:06:26 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-04-29 22:08:22 +0000"
     },
     "done": true
   },

@@ -22684,3 +22684,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 22:00:10.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Apr2025 22:05:10.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Apr2025 22:05:10.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 22:08:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Connecting]
+[29Apr2025 22:08:24.156] [Server thread/DEBUG] [mixin/]: Mixing bugfix.unsafe_modded_shape_caches.ShapeCacheRSMixin from modernfix-forge.mixins.json into com.refinedmods.refinedstorage.block.shape.ShapeCache
+[29Apr2025 22:08:24.157] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
+[29Apr2025 22:08:24.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Exporting]
+[29Apr2025 22:08:33.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has reached the goal [You're almost there!]
+[29Apr2025 22:09:14.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [You're almost there!]
+[29Apr2025 22:09:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Bumper, no disaster!]
+[29Apr2025 22:09:34.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [A large pallet .... useless?]
+[29Apr2025 22:09:38.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Guess it’s wheel-y working!]
+[29Apr2025 22:09:41.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [A big whistle!]
+[29Apr2025 22:09:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [You're gonna be LEGENDARY... or, you know, decent.]
+[29Apr2025 22:10:10.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 22:10:10.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 22:11:57.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [A big plaque ... on wheels ...]
+[29Apr2025 22:12:21.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [It's starting to take shape]
+[29Apr2025 22:12:29.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [To place your buttocks]
+[29Apr2025 22:13:10.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cat['Kitty Patitas Suaves :v'/73, l='ServerLevel[world]', x=-542.91, y=68.04, z=-5956.82] died: Kitty Patitas Suaves :v suffocated in a wall
+[29Apr2025 22:13:17.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> qqqqqqqqqqqqqqqqqqqq
+[29Apr2025 22:13:18.985] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RaycatEntity['Veo... veo una luz'/72, l='ServerLevel[world]', x=-543.29, y=68.04, z=-5956.69] died: Veo... veo una luz suffocated in a wall
+[29Apr2025 22:13:23.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> qqqqqqqqqqqqqqqqqqqq
+[29Apr2025 22:13:32.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> q les hizo
+[29Apr2025 22:13:36.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Se bañaron
+[29Apr2025 22:14:03.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Dond quedaron
+[29Apr2025 22:14:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> los mato
+[29Apr2025 22:14:13.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Uy
+[29Apr2025 22:14:17.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Perdon causita
+[29Apr2025 22:14:22.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> cual perdon
+[29Apr2025 22:14:22.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> El agua empujo el barco y los metio a la roca creo
+[29Apr2025 22:14:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> :C
+[29Apr2025 22:15:10.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 22:15:10.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -23091,6 +23091,12 @@
     },
     "done": true
   },
+  "create_kart:moteurscs": {
+    "criteria": {
+      "moteurscs_0": "2025-04-29 22:08:33 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/lime_chair": {
     "criteria": {
       "has_seat": "2025-04-29 21:45:26 +0000"
@@ -23226,6 +23232,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_seat": {
     "criteria": {
       "has_seat": "2025-04-29 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "create_kart:wheel_suc": {
+    "criteria": {
+      "wheel_suc_0": "2025-04-29 22:09:38 +0000"
     },
     "done": true
   },
