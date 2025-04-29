@@ -13684,6 +13684,7 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-20 04:09:36 +0000",
+      "in_better_spider_dungeon": "2025-04-29 03:45:03 +0000",
       "in_better_skeleton_dungeon": "2025-04-25 01:08:55 +0000"
     },
     "done": false
@@ -22732,6 +22733,12 @@
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-04-29 03:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-29 03:45:03 +0000"
     },
     "done": true
   },

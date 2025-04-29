@@ -1970,3 +1970,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 03:34:27.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Granville'/9188, l='ServerLevel[world]', x=-340.51, y=63.00, z=-5478.74] died: Granville was slain by Iron Golem
 [29Apr2025 03:34:28.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Harold'/9083, l='ServerLevel[world]', x=-341.16, y=63.00, z=-5477.45] died: Harold was slain by Iron Golem
 [29Apr2025 03:34:30.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Viva'/9063, l='ServerLevel[world]', x=-340.19, y=63.00, z=-5478.32] died: Viva was slain by Iron Golem
+[29Apr2025 03:45:03.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Cobweb Entanglement]
+[29Apr2025 03:53:09.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cursed10 lost connection: Disconnected
+[29Apr2025 03:53:09.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 left the game
+[29Apr2025 03:53:37.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.252.103.120:38145] logged in with entity id 16635 at (-520.3000000119209, 68.0, -5937.038401984233)
+[29Apr2025 03:53:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
+[29Apr2025 03:53:37.782] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
