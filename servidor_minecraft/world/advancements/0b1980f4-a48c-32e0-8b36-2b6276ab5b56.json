@@ -22779,5 +22779,29 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-04-29 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-29 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-29 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-29 20:42:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
