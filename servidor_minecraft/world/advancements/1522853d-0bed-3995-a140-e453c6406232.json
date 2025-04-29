@@ -19970,27 +19970,9 @@
     },
     "done": true
   },
-  "create_kart:chassis": {
-    "criteria": {
-      "chassis_0": "2025-04-29 22:09:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
-    },
-    "done": true
-  },
-  "create_kart:parchoquescs": {
-    "criteria": {
-      "parchoquescs_0": "2025-04-29 22:09:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
-    "criteria": {
-      "has_item": "2025-04-29 21:58:03 +0000"
     },
     "done": true
   },
@@ -20000,33 +19982,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/track_signal": {
-    "criteria": {
-      "has_item": "2025-04-29 21:58:03 +0000"
-    },
-    "done": true
-  },
-  "create_kart:moteurscs": {
-    "criteria": {
-      "moteurscs_0": "2025-04-29 22:09:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controls": {
-    "criteria": {
-      "has_item": "2025-04-29 21:58:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
-    },
-    "done": true
-  },
-  "create_kart:echapementscs": {
-    "criteria": {
-      "echapementscs_0": "2025-04-29 22:09:41 +0000"
     },
     "done": true
   },
@@ -20039,12 +19997,6 @@
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
-    },
-    "done": true
-  },
-  "create_kart:chassisparchqoue": {
-    "criteria": {
-      "chassisparchqoue_0": "2025-04-29 22:12:21 +0000"
     },
     "done": true
   },
@@ -20078,39 +20030,15 @@
     },
     "done": true
   },
-  "create_kart:chassissiege": {
-    "criteria": {
-      "chassissiege_0": "2025-04-29 22:12:29 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
-    "criteria": {
-      "has_magma_block": "2025-04-29 20:46:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
     },
     "done": true
   },
-  "create_kart:chassiroue": {
-    "criteria": {
-      "chassiroue_0": "2025-04-29 22:11:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_observer": {
-    "criteria": {
-      "has_item": "2025-04-29 21:58:03 +0000"
     },
     "done": true
   },
@@ -20132,27 +20060,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-04-29 20:52:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_station": {
-    "criteria": {
-      "has_item": "2025-04-29 21:58:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-04-29 20:38:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/train_door": {
-    "criteria": {
-      "has_item": "2025-04-29 21:58:03 +0000"
     },
     "done": true
   },
@@ -20168,9 +20078,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
     "criteria": {
-      "has_item": "2025-04-29 21:58:03 +0000"
+      "has_magma_block": "2025-04-29 20:46:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-29 20:52:12 +0000"
     },
     "done": true
   },
@@ -20180,9 +20096,93 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-29 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-04-29 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-04-29 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-04-29 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-04-29 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-04-29 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-04-29 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "create_kart:moteurscs": {
+    "criteria": {
+      "moteurscs_0": "2025-04-29 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "create_kart:parchoquescs": {
+    "criteria": {
+      "parchoquescs_0": "2025-04-29 22:09:20 +0000"
+    },
+    "done": true
+  },
+  "create_kart:chassis": {
+    "criteria": {
+      "chassis_0": "2025-04-29 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "create_kart:echapementscs": {
+    "criteria": {
+      "echapementscs_0": "2025-04-29 22:09:41 +0000"
+    },
+    "done": true
+  },
   "create_kart:siegescs": {
     "criteria": {
       "siegescs_0": "2025-04-29 22:09:48 +0000"
+    },
+    "done": true
+  },
+  "create_kart:chassiroue": {
+    "criteria": {
+      "chassiroue_0": "2025-04-29 22:11:57 +0000"
+    },
+    "done": true
+  },
+  "create_kart:chassisparchqoue": {
+    "criteria": {
+      "chassisparchqoue_0": "2025-04-29 22:12:21 +0000"
+    },
+    "done": true
+  },
+  "create_kart:chassissiege": {
+    "criteria": {
+      "chassissiege_0": "2025-04-29 22:12:29 +0000"
     },
     "done": true
   },
