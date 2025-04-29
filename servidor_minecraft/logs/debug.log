@@ -20797,3 +20797,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 03:10:57.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Apr2025 03:10:57.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Apr2025 03:14:05.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Local Brewery]
+[29Apr2025 03:15:57.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 03:15:57.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 03:20:57.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 03:20:57.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 03:21:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> arroz tomate cebolla hongo cafe papa baya
