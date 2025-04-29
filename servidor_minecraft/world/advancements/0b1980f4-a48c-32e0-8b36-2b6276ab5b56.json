@@ -22779,6 +22779,18 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-04-29 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-04-29 20:59:42 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/basalt_slab": {
     "criteria": {
       "has_basalt": "2025-04-29 20:42:03 +0000"
@@ -22794,6 +22806,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-29 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-29 20:52:15 +0000"
     },
     "done": true
   },
