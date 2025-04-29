@@ -1976,3 +1976,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 03:53:37.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.252.103.120:38145] logged in with entity id 16635 at (-520.3000000119209, 68.0, -5937.038401984233)
 [29Apr2025 03:53:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
 [29Apr2025 03:53:37.782] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
+[29Apr2025 03:58:06.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
+[29Apr2025 03:58:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
+[29Apr2025 03:58:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Apr2025 03:58:11.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Apr2025 03:58:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Apr2025 03:58:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Apr2025 03:58:12.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Apr2025 03:58:12.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Apr2025 03:58:12.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Apr2025 03:58:12.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Apr2025 03:58:12.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[29Apr2025 03:58:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[29Apr2025 03:58:12.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Apr2025 03:58:12.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 03:58:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 03:58:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Apr2025 03:58:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[29Apr2025 03:58:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[29Apr2025 03:58:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Apr2025 03:58:12.203] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Apr2025 03:58:12.205] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29Apr2025 03:58:12.207] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29Apr2025 03:58:12.208] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29Apr2025 03:58:12.222] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
