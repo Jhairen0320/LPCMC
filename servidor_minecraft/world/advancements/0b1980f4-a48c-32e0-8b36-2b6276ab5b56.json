@@ -22631,6 +22631,18 @@
     },
     "done": true
   },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2025-04-27 07:42:44 +0000"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-04-27 07:47:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/train_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 07:47:24 +0000"
@@ -22646,18 +22658,6 @@
   "create:recipes/misc/crafting/kinetics/controls": {
     "criteria": {
       "has_item": "2025-04-27 07:47:24 +0000"
-    },
-    "done": true
-  },
-  "mekanism:yellow_cake": {
-    "criteria": {
-      "yellow_cake_uranium": "2025-04-27 07:42:44 +0000"
-    },
-    "done": true
-  },
-  "create:train_casing_00": {
-    "criteria": {
-      "0": "2025-04-27 07:47:12 +0000"
     },
     "done": true
   },
