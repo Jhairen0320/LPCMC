@@ -2024,3 +2024,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Apr2025 20:52:15.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Nightmare Fuel]
 [29Apr2025 20:54:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM burned to death
 [29Apr2025 20:57:56.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> papu como q ahora se llama luis :v
+[29Apr2025 21:06:26.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Jeff Bezos would be proud]
+[29Apr2025 21:10:27.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cursed10 lost connection: Disconnected
+[29Apr2025 21:10:27.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 left the game
+[29Apr2025 21:12:16.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cursed10[/127.133.65.64:41367] logged in with entity id 18467 at (-534.4521118658979, 69.0, -5935.890565895919)
+[29Apr2025 21:12:16.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 joined the game
+[29Apr2025 21:12:16.818] [Server thread/INFO] [Jade/]: Syncing config to Cursed10 (0b1980f4-a48c-32e0-8b36-2b6276ab5b56)
