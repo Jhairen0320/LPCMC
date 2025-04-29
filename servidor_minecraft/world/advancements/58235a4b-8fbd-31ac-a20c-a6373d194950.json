@@ -25275,6 +25275,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/ultimate_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-04-29 22:39:27 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:exporting": {
     "criteria": {
       "exporter_in_inventory": "2025-04-29 22:08:24 +0000"
@@ -25296,6 +25302,12 @@
   "mekanism:alarm": {
     "criteria": {
       "industrial_alarm": "2025-04-29 22:17:00 +0000"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-04-29 22:39:27 +0000"
     },
     "done": true
   },
