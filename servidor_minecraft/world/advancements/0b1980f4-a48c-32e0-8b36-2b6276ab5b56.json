@@ -23595,5 +23595,161 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_toilet": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_toilet": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_cyan_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_cyan_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 00:13:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

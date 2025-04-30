@@ -24086,3 +24086,83 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Apr2025 00:05:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Autocrafting]
 [30Apr2025 00:05:10.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Apr2025 00:05:10.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 00:07:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Managing patterns]
+[30Apr2025 00:07:28.654] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@166b97c3, suppressing error
+java.lang.NullPointerException: Cannot invoke "com.refinedmods.refinedstorage.api.network.INetwork.getCraftingManager()" because the return value of "com.refinedmods.refinedstorage.apiimpl.network.node.CrafterManagerNetworkNode.getNetwork()" is null
+	at com.refinedmods.refinedstorage.container.factory.CrafterManagerMenuProvider.writeToBuffer(CrafterManagerMenuProvider.java:31) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at com.refinedmods.refinedstorage.block.CrafterManagerBlock.lambda$use$0(CrafterManagerBlock.java:47) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:194) ~[forge-1.20.1-47.3.7-universal.jar%23594!/:?]
+	at com.refinedmods.refinedstorage.block.CrafterManagerBlock.lambda$use$1(CrafterManagerBlock.java:44) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at com.refinedmods.refinedstorage.util.NetworkUtils.attempt(NetworkUtils.java:66) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at com.refinedmods.refinedstorage.block.CrafterManagerBlock.m_6227_(CrafterManagerBlock.java:44) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[30Apr2025 00:07:29.399] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@30ec24b9, suppressing error
+java.lang.NullPointerException: Cannot invoke "com.refinedmods.refinedstorage.api.network.INetwork.getCraftingManager()" because the return value of "com.refinedmods.refinedstorage.apiimpl.network.node.CrafterManagerNetworkNode.getNetwork()" is null
+	at com.refinedmods.refinedstorage.container.factory.CrafterManagerMenuProvider.writeToBuffer(CrafterManagerMenuProvider.java:31) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at com.refinedmods.refinedstorage.block.CrafterManagerBlock.lambda$use$0(CrafterManagerBlock.java:47) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at net.minecraftforge.network.NetworkHooks.openScreen(NetworkHooks.java:194) ~[forge-1.20.1-47.3.7-universal.jar%23594!/:?]
+	at com.refinedmods.refinedstorage.block.CrafterManagerBlock.lambda$use$1(CrafterManagerBlock.java:44) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at com.refinedmods.refinedstorage.util.NetworkUtils.attempt(NetworkUtils.java:66) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at com.refinedmods.refinedstorage.block.CrafterManagerBlock.m_6227_(CrafterManagerBlock.java:44) ~[refinedstorage-1.12.4.jar%23537!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23589!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[30Apr2025 00:07:43.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> papu sus ventiladores generan un huevo mas que la wea hidroelectrica :V
+[30Apr2025 00:07:56.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> de vd?
+[30Apr2025 00:08:01.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> lo conecte a la electricidad
+[30Apr2025 00:08:05.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> y potencio todo a full
+[30Apr2025 00:08:15.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Pa q vea pelaito
+[30Apr2025 00:08:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> cuanto estamos generando?
+[30Apr2025 00:08:50.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> papu cuando le diga desconecta el cable de la bateria para ver si si da
+[30Apr2025 00:09:12.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> ya?
+[30Apr2025 00:09:33.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [A big whistle!]
+[30Apr2025 00:09:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> pere
+[30Apr2025 00:09:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> esta wea da 800 por tick
+[30Apr2025 00:10:10.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 00:10:10.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 00:10:11.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> q cosa
+[30Apr2025 00:12:01.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> la hidroelectric
+[30Apr2025 00:12:21.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> y mis ventiladores'
+[30Apr2025 00:12:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> no sale :v
+[30Apr2025 00:12:33.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> Cada uno da 100 por tick no?
+[30Apr2025 00:12:49.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> da 80 creo
+[30Apr2025 00:14:06.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> ahi sale que da 117J
+[30Apr2025 00:14:08.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> y
+[30Apr2025 00:14:52.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> eso no es?
+[30Apr2025 00:15:10.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 00:15:10.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 00:16:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Refined Storage]

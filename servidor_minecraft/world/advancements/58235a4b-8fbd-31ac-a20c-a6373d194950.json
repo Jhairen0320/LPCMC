@@ -25293,6 +25293,12 @@
     },
     "done": true
   },
+  "create_kart:echapementscs": {
+    "criteria": {
+      "echapementscs_0": "2025-04-30 00:09:33 +0000"
+    },
+    "done": true
+  },
   "trading_floor:happy_jeff": {
     "criteria": {
       "0": "2025-04-29 21:06:26 +0000"
@@ -25308,6 +25314,12 @@
   "mekanism:alarm": {
     "criteria": {
       "industrial_alarm": "2025-04-29 22:17:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:managing_patterns": {
+    "criteria": {
+      "crafter_manager_in_inventory": "2025-04-30 00:07:26 +0000"
     },
     "done": true
   },
