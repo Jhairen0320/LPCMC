@@ -145,3 +145,8 @@ java.lang.NullPointerException: Cannot invoke "com.refinedmods.refinedstorage.ap
 [30Apr2025 00:36:39.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> e
 [30Apr2025 00:36:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> me falta cuarzo
 [30Apr2025 00:37:08.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> y no logro hacer funcionar la mrd de almacenamiento pa las zanahorias
+[30Apr2025 00:38:18.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Viewing items]
+[30Apr2025 00:42:55.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> regreso al rato papu
+[30Apr2025 00:42:56.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> suerte
+[30Apr2025 00:42:58.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
+[30Apr2025 00:42:58.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
