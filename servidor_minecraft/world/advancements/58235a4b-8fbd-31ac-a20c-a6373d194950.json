@@ -25461,6 +25461,12 @@
     },
     "done": true
   },
+  "refinedstorage:manipulating_disks": {
+    "criteria": {
+      "disk_manipulator_in_inventory": "2025-04-30 00:26:08 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/red_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-04-30 00:16:45 +0000"
