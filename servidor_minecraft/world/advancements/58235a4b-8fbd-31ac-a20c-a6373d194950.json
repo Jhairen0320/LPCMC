@@ -25311,6 +25311,12 @@
     },
     "done": true
   },
+  "refinedstorage:autocrafting": {
+    "criteria": {
+      "crafter_in_inventory": "2025-04-30 00:05:06 +0000"
+    },
+    "done": true
+  },
   "trashcans:trash_can": {
     "criteria": {
       "has_item_trash_can": "2025-04-29 22:39:27 +0000"
