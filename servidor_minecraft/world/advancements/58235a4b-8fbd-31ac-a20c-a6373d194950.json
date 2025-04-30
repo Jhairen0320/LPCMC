@@ -27015,6 +27015,12 @@
     },
     "done": true
   },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2025-04-30 00:47:51 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/red_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-04-30 00:16:45 +0000"
