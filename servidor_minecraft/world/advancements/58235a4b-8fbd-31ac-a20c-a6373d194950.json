@@ -12215,6 +12215,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-04-17 06:45:02 +0000",
+      "sweet_berries": "2025-05-04 04:17:32 +0000",
       "brown_mushroom": "2025-04-22 18:30:10 +0000",
       "potato": "2025-04-20 04:03:10 +0000",
       "wheat": "2025-04-17 06:44:29 +0000",
@@ -27090,6 +27091,48 @@
   "mekanism:installer": {
     "criteria": {
       "installer": "2025-04-30 00:47:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-04 04:17:31 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/deepslate_redstone_ore_slab": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-04 04:11:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 04:17:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-04 04:17:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-05-04 04:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-04 04:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-04 04:11:15 +0000"
     },
     "done": true
   },
