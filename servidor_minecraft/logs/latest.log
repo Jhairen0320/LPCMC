@@ -1945,3 +1945,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 03:21:43.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.141.136.247:59279] logged in with entity id 2038 at (-390.33842710269494, 63.0, -5929.970565451662)
 [04May2025 03:21:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
 [04May2025 03:21:43.596] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
+[04May2025 03:38:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [The Parrots and the Flaps]
